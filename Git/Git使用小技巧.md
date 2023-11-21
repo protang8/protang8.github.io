@@ -13,6 +13,7 @@
 #### 2. 配置Beyond Comapre作为Merge工具
 ``` cmd
   git config --global merge.tool bc
+  git config --global difftool.prompt false
   git config --global mergetool.bc.path "c:/Program Files/Beyond Compare 4/bcomp.exe"
 ```
 
