@@ -6,7 +6,7 @@
   git config --global difftool.prompt false
   git config --global difftool.bc.path "c:/Program Files/Beyond Compare 4/bcomp.exe"
 ```
-运行`git difftool main...feat/50_fixbug1062088 --dir-diff`, 自动弹出BeyondCompare比较差异。
+运行`git difftool main...feat/xxx --dir-diff`, 自动弹出BeyondCompare比较差异。
 ![image](https://github.com/BD-Joy/Continuous-Learning/assets/7828364/5d0fa648-0a5b-4b73-9bf1-6d9edb4cdd5c)
 
 
