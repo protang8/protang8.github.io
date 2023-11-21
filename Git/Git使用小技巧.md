@@ -1,4 +1,4 @@
-### Git配置Beyond Comapre
+## Git配置Beyond Comapre
 
 #### 1. 配置Beyond Comapre作为Diff工具：
 ``` cmd
