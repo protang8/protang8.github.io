@@ -14,7 +14,7 @@ description: >
 
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
 
