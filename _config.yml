@@ -15,5 +15,6 @@ remote_theme: niklasbuschmann/contrast
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
 
+
 plugins:
   - jekyll-remote-theme
