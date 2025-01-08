@@ -10,7 +10,7 @@ description: >
 
 # theme: minima
 
-remote_theme: niklasbuschmann/contrast
+remote_theme: benbalter/retlab
 #StartBootstrap/startbootstrap-clean-blog-jekyll
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
