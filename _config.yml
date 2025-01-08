@@ -15,7 +15,7 @@ remote_theme: "niklasbuschmann/contrast@v2.11"
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
 
-remote_theme: "niklasbuschmann/contrast"
+remote_theme: jeffreytse/jekyll-theme-yat
 
 plugins:
   - jekyll-remote-theme
