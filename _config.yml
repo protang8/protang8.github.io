@@ -15,7 +15,7 @@ description: >
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
 #theme: jekyll-text-theme
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: niklasbuschmann/contrast@v2.11
 #StartBootstrap/startbootstrap-clean-blog-jekyll
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
