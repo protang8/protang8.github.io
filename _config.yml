@@ -15,7 +15,5 @@ remote_theme: vszhub/not-pure-poole
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
 
-remote_theme: jeffreytse/jekyll-theme-yat
-
 plugins:
   - jekyll-remote-theme
