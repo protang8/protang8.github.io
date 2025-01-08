@@ -4,50 +4,7 @@ description: 业精于勤荒于嬉；行成于思毁于随。
 
 lang: en-US
 
-remote_theme: benbalter/retlab
+remote_theme: vszhub/not-pure-poole
 
 plugins:
   - jekyll-remote-theme
-
-
-nav_pages:
-  - index.html
-  - talks.md
-  - press.md
-  - about.md
-  - contact.md
-
-# Pages to include in footer navigation
-footer_pages:
-  - books.md
-  - fine-print.md
-  
-# Disqus login information, for comments
-disqus:
-  shortname: DISQUS_USERNAME
-
-# Links to include on the contact page
-contact_links:
-  - name: Twitter
-    url: https://twitter.com/BenBalter
-    icon: twitter
-  - name: Facebook
-    url: https://facebook.com/BenBalter
-    icon: facebook
-
-  
-defaults:
--
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: post
-    comments: true
--
-  scope:
-    path: ""
-    type: "pages"
-  values:
-    layout: page
-    comments: false
