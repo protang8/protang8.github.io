@@ -14,11 +14,13 @@ description: >
 
 # If you clone the Minima repo and build locally, use this setting.
 # theme: minima
-#theme: jekyll-text-theme
-remote_theme: niklasbuschmann/contrast@v2.11
+
+remote_theme: niklasbuschmann/contrast
 #StartBootstrap/startbootstrap-clean-blog-jekyll
 # vszhub/not-pure-poole
 # ngzhio/jekyll-theme-hamilton
+
+
 
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
