@@ -8,10 +8,8 @@ description: 业精于勤荒于嬉；行成于思毁于随。
 lang: en-US
 
 theme: minima
-#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
-#plugins:
-#  - jekyll-include-cache
+paginate: 1
 
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
