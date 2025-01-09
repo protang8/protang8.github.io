@@ -4,7 +4,4 @@ description: 业精于勤荒于嬉；行成于思毁于随。
 
 lang: en-US
 
-remote_theme: vszhub/not-pure-poole
-
-plugins:
-  - jekyll-remote-theme
+theme: minima
