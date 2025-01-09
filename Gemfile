@@ -11,5 +11,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.1"
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-sitemap", "~> 1.3"
-
 end
