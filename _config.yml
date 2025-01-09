@@ -7,7 +7,8 @@ description: 业精于勤荒于嬉；行成于思毁于随。
 
 lang: en-US
 
-theme: minima
+#theme: minima
+theme: monophase
 
 paginate: 1
 
