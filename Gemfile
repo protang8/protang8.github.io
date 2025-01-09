@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 #gem "minima", "~> 2.5"
-gem 'benimal-mistakes-jekyll', '~> 0.3.0'
+gem 'minimal-mistakes-jekyll', '~> 4.26', '>= 4.26.2'
 
 gem "github-pages", group: :jekyll_plugins
 
