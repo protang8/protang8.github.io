@@ -1,10 +1,12 @@
+theme: minimal-mistakes-jekyll
+codeminimal_mistakes_skin: "air"
+
+locale: "en-US"
 title: Do more than you think
+subtitle: "Version 2.0"
 description: 业精于勤荒于嬉；行成于思毁于随。
 baseurl: ""
 url: "https://tang88-pro.github.io"
+name: "test name"
 
-theme: minimal-mistakes-jekyll
 
-codeminimal_mistakes_skin: "air"
-locale: "en-US"
-subtitle: "Version 2.0"
