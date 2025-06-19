@@ -1,5 +1,5 @@
---
-title: git 小技巧
+---
+title: Git小技巧
 ---
 ## Git配置Beyond Comapre
 
