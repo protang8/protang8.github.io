@@ -1,13 +1,9 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
 # Site
-title: Hexo
+title: 唐铭均的网络日志
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: 唐铭均
 language: en
 timezone: ''
 
