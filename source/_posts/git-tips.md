@@ -1,5 +1,6 @@
 ---
 title: Git小技巧
+tags: Tech
 ---
 ## Git配置Beyond Comapre
 
